@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fixed sample"
+		},
+		{
+			"path": "../../html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sample"
+	}
+}
